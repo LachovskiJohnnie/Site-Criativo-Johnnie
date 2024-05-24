@@ -5,16 +5,16 @@
 
 .cabecalho {
     background-color: #13171A;
-    color: #767778;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px;
-    font-family: "Poppins",sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
-.cabecalho-image {
-    width: 20%;
+.cabecalho-imagem {
+    width: 15%;
 }
 
 .cabecalho-lista-item {
@@ -24,23 +24,38 @@
 }
 
 .escola-imagem {
-    width: 20%;
+    width: 30%;
 }
 
 .escola {
     background-image: linear-gradient(#13171A, #767778);
-    color: rgb(255, 255, 255);
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
-    font-family: "Poppins",sans-serif;
 }
 
 .escola-div-conteudo {
     width: 35%;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: #FFF;
 }
 
 .escola-titulo {
+    font-size: 32px;
     padding: 24px 0;
+    text-align: center;
+}
+
+.estudante-imagem {
+    width: 20%;
+}
+.estudante-icone{ 
+ width: 30px;
+}
+
+.titulo-rodape{
+    text-align: center;
 }
