@@ -24,7 +24,8 @@
 }
 
 .escola-imagem {
-    width: 30%;
+    width: 20%;
+    
 }
 
 .escola {
@@ -33,18 +34,19 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 150px 0;
 }
 
 .escola-div-conteudo {
     width: 35%;
     text-align: center;
     font-family: "Poppins", sans-serif;
+    font-size: 140%;
     color: #FFF;
 }
 
 .escola-titulo {
-    font-size: 32px;
+    font-size: 42px;
     padding: 24px 0;
     text-align: center;
 }
